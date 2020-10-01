@@ -1,9 +1,12 @@
 #!/bin/sh
-for f in "$1"/*; do
-  if [ -f "$f" ]; then
-    SIZE="$(du -sh "${f}" | cut -f1)"
-    echo "Processing $f file..."
-    echo "$SIZE"
-  fi
+  for f in "$1"/*; do
+    if [ -f "$f" ]; then
+	FILE_NAME="$(basename "${f}")"
+	WORD_COUNT="$(wc -w "${f}" | cut -d' ' -f1)"
+	SIZE="$(du -sh "${f}" | cut -f1)"
+	echo "Word Count: $WORD_COUNT"
+	echo "File name: $FILE_NAME"
+	echo "File size: $SIZE"
+    fi
 done
 
