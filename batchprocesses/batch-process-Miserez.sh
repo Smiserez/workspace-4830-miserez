@@ -5,7 +5,6 @@
 	WORD_COUNT="$(wc -w "${f}" | cut -d' ' -f1)"
 	SIZE="$(du -sh "${f}" | cut -f1)"
 	echo "Word Count: $WORD_COUNT"
-	echo "File name: $FILE_NAME"
 	echo "File size: $SIZE"
     fi
 done
