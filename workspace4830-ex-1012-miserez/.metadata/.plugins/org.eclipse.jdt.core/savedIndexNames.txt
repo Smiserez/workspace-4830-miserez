@@ -1,0 +1,3 @@
+INDEX VERSION 1.131+C:\Users\sdmis\OneDrive\Desktop\workspaceCSCI4830\workspace4830-ex-1012-miserez\.metadata\.plugins\org.eclipse.jdt.core
+3691574250.index
+91708931.index

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<launchConfiguration type="org.eclipse.ajdt.launching.AspectJApplication">
+<listAttribute key="org.eclipse.debug.core.MAPPED_RESOURCE_PATHS">
+<listEntry value="/project-aop-Miserez/src/pkg3/Program.java"/>
+</listAttribute>
+<listAttribute key="org.eclipse.debug.core.MAPPED_RESOURCE_TYPES">
+<listEntry value="1"/>
+</listAttribute>
+<stringAttribute key="org.eclipse.jdt.launching.MAIN_TYPE" value="pkg3.Program"/>
+<stringAttribute key="org.eclipse.jdt.launching.PROJECT_ATTR" value="project-aop-Miserez"/>
+</launchConfiguration>
