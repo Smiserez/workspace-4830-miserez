@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><testrun name="TestComputation" project="simple-junit-examples" tests="1" started="1" failures="0" errors="0" ignored="0">
+  <testsuite name="p1.computation.TestComputation" time="0.003" displayname="TestComputation" uniqueid="[engine:junit-vintage]/[runner:p1.computation.TestComputation]">
+    <testcase name="testGetDiscount" classname="p1.computation.TestComputation" time="0.003" displayname="testGetDiscount" uniqueid="[engine:junit-vintage]/[runner:p1.computation.TestComputation]/[test:testGetDiscount(p1.computation.TestComputation)]"/>
+  </testsuite>
+</testrun>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?><testrun name="TestCustomer_Parameterized" project="simple-junit-examples" tests="3" started="3" failures="0" errors="0" ignored="0">
+  <testsuite name="p2.parameterization.TestCustomer_Parameterized" time="0.001" displayname="TestCustomer_Parameterized" uniqueid="[engine:junit-vintage]/[runner:p2.parameterization.TestCustomer_Parameterized]">
+    <testsuite name="[0]" time="0.001" uniqueid="[engine:junit-vintage]/[runner:p2.parameterization.TestCustomer_Parameterized]/[test:%5B0%5D]">
+      <testcase name="testWithParameters" classname="p2.parameterization.TestCustomer_Parameterized" time="0.001" displayname="testWithParameters[0]" uniqueid="[engine:junit-vintage]/[runner:p2.parameterization.TestCustomer_Parameterized]/[test:%5B0%5D]/[test:testWithParameters%5B0%5D(p2.parameterization.TestCustomer_Parameterized)]"/>
+    </testsuite>
+    <testsuite name="[1]" time="0.0" uniqueid="[engine:junit-vintage]/[runner:p2.parameterization.TestCustomer_Parameterized]/[test:%5B1%5D]">
+      <testcase name="testWithParameters" classname="p2.parameterization.TestCustomer_Parameterized" time="0.0" displayname="testWithParameters[1]" uniqueid="[engine:junit-vintage]/[runner:p2.parameterization.TestCustomer_Parameterized]/[test:%5B1%5D]/[test:testWithParameters%5B1%5D(p2.parameterization.TestCustomer_Parameterized)]"/>
+    </testsuite>
+    <testsuite name="[2]" time="0.0" uniqueid="[engine:junit-vintage]/[runner:p2.parameterization.TestCustomer_Parameterized]/[test:%5B2%5D]">
+      <testcase name="testWithParameters" classname="p2.parameterization.TestCustomer_Parameterized" time="0.0" displayname="testWithParameters[2]" uniqueid="[engine:junit-vintage]/[runner:p2.parameterization.TestCustomer_Parameterized]/[test:%5B2%5D]/[test:testWithParameters%5B2%5D(p2.parameterization.TestCustomer_Parameterized)]"/>
+    </testsuite>
+  </testsuite>
+</testrun>
